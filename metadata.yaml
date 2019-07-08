@@ -1,5 +1,8 @@
 _repo: Del-sentimiento-tragico-de-la-vida_59852
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59852-h/images/cover.jpg
 creator:
   author:
     agent_name: Unamuno, Miguel de
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5605
     wikipedia: http://en.wikipedia.org/wiki/Miguel_de_Unamuno
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59852#Del-sentimiento-tragico-de-la-vida
 gutenberg_issued: '2019-07-04'
 gutenberg_type: Text
 identifiers:
